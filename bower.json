@@ -1,0 +1,7 @@
+{
+  "name": "planes",
+  "version": "0.0.0",
+  "dependencies": {
+    "phaser-official": "latest"
+  }
+}
